@@ -8,5 +8,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TopDownMovement.unity
+    guid: ce6ea51752a44ff45b14e6485ef5ff9f
+  - enabled: 1
+    path: Assets/Scenes/TopDownMovement1.unity
+    guid: 4ff2b3fb6bc563d42b08f986785a37a7
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: a65a59c4c517b134f95b2c8b26f35b74, type: 2}
